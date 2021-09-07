@@ -1,2 +1,7 @@
-As flies to wonton boys are we to th' gods
-They kill us for thier sport
+1- The world wide web consists of the things we see on the internet, such as websites and emails. The internet is the network of computers on which that information travels.
+2- The internet uses phonelines, fiber-optic cables, and satelites to send data between connected computers and servers.
+3- A directory is basically a folder that files live in, that you can trace the path of what files or folders are the children, parents, or grandmembers of other folders.
+4- VCS will make it easier for me to learn how to make a website by tracking all of the changes I make along the way, and by making it easier to retrace my steps if something doesn't work. I'll be able to go back and make changes easily. It will also help my professor see my work and help me when I encounter snags.
+5-screenshot taken
+6- I don't know if I have a favorite kind of art. I'm a dancer, and a visual artist, and a ceramic artist. Modern dance is my favorite kind of dance, functional pottery is my favorite kind of ceramics, and I'm all over the map with visual art. I think it's easier to identify the kind of art I *don't* like, (it's definately the kind of contemporary art that's just a colored square on a canvas, or worse, nothing at all on a canvas).
+7- screenshot named and posted to GitHub Repo 
