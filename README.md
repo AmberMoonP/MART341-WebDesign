@@ -1,2 +1,3 @@
 # Amber Moon Peterson MART341-WebDesign
 Repo for Web Design HW 1
+This assignment was focused on teaching how to create a repository on Github, take and upload screenshots and touched on the heirarchical nature of directories. One challenge I had was feeling like the homework was taking place in two places, the website walkthrough and then in the pdf, but I think I completed all of the required tasks. I think I gained a better understanding of what GitHub actually is, a better understanding of directory heirarchy, and some tidbits about things like plain-text, markdown vs html, and file types. 
