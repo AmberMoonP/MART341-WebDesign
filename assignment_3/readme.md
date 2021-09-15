@@ -10,7 +10,7 @@
 
 I'm writing a test paragraph so I can practice the thing and make sure my text wraps. It does!
 
-[Link to website of my choice: Nederlands Dans Theater](https://www.ndt.nl/en/)
+Link to website of my choice: [Nederlands Dans Theater](https://www.ndt.nl/en/)
 
 [My responses](./responses.txt)
 
