@@ -10,6 +10,5 @@
   1) The Protocol- http:// or https://
   2) The Domain- .com, .org, etc..
   3) The Directory- ./folder/file/
-5. In your README.md, use Markdown and add the title
-"Assignment 3" with a heading 1. Underneath, add your name as a heading 2.
-6. Add a list of 3 things you've learned so far
+5. See readme.md for header and name change
+6. See readme.md for a list of 3 things I've learned so far
