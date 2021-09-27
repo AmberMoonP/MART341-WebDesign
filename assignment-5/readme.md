@@ -3,7 +3,7 @@ Today, Nasa's website is very interactive but still reflects Nasa's commitment t
 
 As we've transitioned from markdown to html, the coding hasn't been too challenging, but figuring out my repository and file/folder organization, as well as getting it onto Github has felt challenging. Learning how to utilize Github Desktop has alleviated much of this.
 
-![Nasa.gov circa 1999](images\nasa_1999.png)
+![Nasa.gov circa 1999](.\assignment-5\images\nasa_1999.png)
 
 ![Nasa.gov circa 2011](C:\Users\Amber Moon\Desktop\GitHub\MART341-WebDesign\assignment-5\images\nasa_2011.png)
 
