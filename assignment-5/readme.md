@@ -7,5 +7,5 @@ As we've transitioned from markdown to html, the coding hasn't been too challeng
 Nasa.gov circa 1999
 ![Nasa.gov circa 2011](./images/nasa_2011.png)
 Nasa.gov circa 2011
-![Nasa.gov 2021](.images/nasa_2021.png)
+![Nasa.gov 2021](./images/nasa_2021.png)
 Nasa.gov circa 2021
