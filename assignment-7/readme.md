@@ -1,4 +1,4 @@
-#Homework 7#
+# Homework 7 #
 
 1. I've encountered email subscription forms, buttons, multiple choice and long answer responses, among others. The purpose of these forms is for the page owner to be able to collect data for various reasons. For example, an email subscription form allows the page owner to get a hold of the visitor. Multiple choice questionnaires allow page owners to collect specific answers from visitors.
 
