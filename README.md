@@ -10,3 +10,5 @@ This is the home of Amber Moon Peterson's Intro to Web Design assignments.
 [Assignment 5](https://ambermoonp.github.io/MART341-WebDesign/assignment-5/)
 
 [Assignment 6](https://ambermoonp.github.io/MART341-WebDesign/assignment-6/)
+
+[Assignment 7](https://ambermoonp.github.io/MART341-WebDesign/assignment-7/)
