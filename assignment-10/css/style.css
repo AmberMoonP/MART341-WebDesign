@@ -28,7 +28,8 @@
     }
     .container {
     align: center;
-    margin: 50px;
+    float: center;
+    margin: 100px;
     width: 1000px;
     height: auto;
     }
