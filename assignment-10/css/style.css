@@ -20,7 +20,6 @@
     }
     div {
       background-color: black;
-      opacity: .9; 
       border: 5px solid gold;
       padding: 20px;
       text-align: center;
@@ -40,6 +39,7 @@
     }
     .banner {
       size: 80%;
+      opacity: .7;
     }
     #flapper-girl-1 {
       align: center;
