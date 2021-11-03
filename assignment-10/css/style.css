@@ -7,6 +7,10 @@
       font-family: garamond;
       color: gold;
       font-size: large;
+      align: center;
+    }
+    #intro-picture {
+      size: 50%;
     }
     p {
       color: gold;
@@ -15,6 +19,8 @@
       background-color: black;
       border: 5px solid gold;
       padding: 20px;
+      size: 50%;
+      align: center;
     }
     .container1 {
       size:
