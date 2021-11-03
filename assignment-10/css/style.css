@@ -26,6 +26,12 @@
       text-align: center;
       font-size: 24pt;
     }
+    .body-style {
+      background-position: center;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      font-size: 24pt;
+    }
     .container {
     align: center;
     float: center;
