@@ -4,6 +4,7 @@
       background-color: black;
       background-attachment: fixed;
       background-repeat:no-repeat;
+      font-size: 24pt;
 
      }
     h1, h2 {
@@ -22,13 +23,14 @@
       background-color: black;
       border: 5px solid gold;
       padding: 20px;
-      width: 75%;
-      float: center;
-      align: center;
     }
-    .container2 {
+    .container {
     align: center;
-    float: center;
+    margin: 50px;
+    width: 1000px;
+    height: auto;
+
+
     }
     #flapper-girl-1 {
       align: center;
