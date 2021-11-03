@@ -1,8 +1,9 @@
 <!stylesheet>
   <style>
     body {
-      background-image: ./images/background_image.jpg;
-    }
+      background-color: black;
+      background-image: /images/gold-foil.png;
+     }
     h1, h2 {
       font-family: garamond;
       color: gold;
