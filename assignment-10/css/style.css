@@ -6,10 +6,13 @@
       font-size: 24pt;
 
      }
-    h1, h2 {
+   h2 {
       font-family: garamond;
-      color: gold;
+      color: #FFFAF0;
       align: center;
+      width: 1000px;
+      height: auto;
+
     }
     #intro-picture {
       height: 400px;
