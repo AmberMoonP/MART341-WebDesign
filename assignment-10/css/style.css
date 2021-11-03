@@ -3,6 +3,7 @@
     body {
       background-color: black;
       color: gold;
+      background-image: ./images/background_image.jpg;
     }
     h1, h2 {
       font-family: garamond;
@@ -20,7 +21,7 @@
       background-color: black;
       border: 5px solid gold;
       padding: 20px;
-      size: 50%;
+      width: 75%;
       align: center;
     }
     .container1 {
