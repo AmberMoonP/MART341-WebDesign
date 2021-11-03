@@ -4,7 +4,7 @@
       background-image: url(./images/a10_background_cropped.jpg);
       background-attachment: fixed;
       font-size: 24pt;
-
+      *text-align: center;
      }
   img {
     padding: 20px;
@@ -48,6 +48,7 @@
       margin-left: 50px;
       width: 1000px;
       height: auto;
+
     }
     .container {
     align: center;
@@ -62,6 +63,7 @@
       height= auto;
       opacity: .9;
       align: center;
+      text-align: center;
     }
     #flapper-girl-1 {
       align: center;
