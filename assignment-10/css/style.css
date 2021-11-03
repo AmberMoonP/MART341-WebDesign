@@ -2,7 +2,7 @@
   <style>
     body {
       background-color: black;
-      color: gold; 
+      color: gold;
     }
     h1, h2 {
       font-family: garamond;
@@ -25,4 +25,13 @@
     }
     .container1 {
       size:
+    }
+    #flapper-girl-1 {
+      align: center;
+    }
+    #flapper-girl-2 {
+      align: top left;
+    }
+    #flapper-girl-3 {
+      align: top right;
     }
