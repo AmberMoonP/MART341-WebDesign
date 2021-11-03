@@ -16,11 +16,11 @@
       width: 400px;
     }
     p {
-      color: gold; 
+      color: gold;
     }
     div {
       background-color: black;
-      opacity: .9;
+      opacity: .9; 
       border: 5px solid gold;
       padding: 20px;
       text-align: center;
