@@ -1,0 +1,21 @@
+<!stylesheet>
+  <style>
+    body {
+      background-image: ./images/background_image.jpg; color: gold;
+    }
+    h1, h2 {
+      font-family: garamond;
+      color: gold;
+      font-size: large;
+    }
+    p {
+      color: gold;
+    }
+    div {
+      background-color: black;
+      border: 5px solid gold;
+      padding: 20px;
+    }
+    .container1 {
+      size:
+    }
