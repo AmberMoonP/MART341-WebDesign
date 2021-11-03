@@ -12,6 +12,7 @@
       align: center;
       width: 1000px;
       height: auto;
+      margin: 30px;
 
     }
     #intro-picture {
@@ -38,7 +39,7 @@
       color: #FFFAF0;
       align: center;
       float: center;
-      margin: 50px;
+      margin: 30px;
       width: 1000px;
       height: auto;
     }
