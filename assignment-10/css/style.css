@@ -1,7 +1,6 @@
   <style>
     body {
       background-color: black;
-      img: background-image: url(./images/a10_background_cropped.jpg);"
      }
     h1, h2 {
       font-family: garamond;
@@ -14,13 +13,14 @@
     }
     p {
       color: gold;
-    } 
+    }
     div {
       background-color: black;
       border: 5px solid gold;
       padding: 20px;
       width: 75%;
       float: center;
+      align: center;
     }
     .container2 {
     align: center;
