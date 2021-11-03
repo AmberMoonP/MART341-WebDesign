@@ -28,7 +28,7 @@
     }
     .body-style {
       background-position: center;
-      background-repeat: no-repeat;
+      background-repeat: repeat;
       background-attachment: fixed;
       font-size: 24pt;
     }
