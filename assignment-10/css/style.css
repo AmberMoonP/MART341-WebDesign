@@ -1,7 +1,6 @@
   <style>
     body {
       background-image: url(./images/a10_background_cropped.jpg);
-      background-position: center;
       background-attachment: fixed;
       font-size: 24pt;
 
@@ -27,7 +26,6 @@
       align: center;
     }
     .body-style {
-      background-position: center;
       background-attachment: fixed;
       font-size: 24pt;
     }
