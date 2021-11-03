@@ -58,8 +58,10 @@
     height: auto;
     }
     .banner {
-      size: 80%;
+      width= 1000px;
+      height= auto;
       opacity: .9;
+      align: center;
     }
     #flapper-girl-1 {
       align: center;
