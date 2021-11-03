@@ -30,6 +30,15 @@
       background-attachment: fixed;
       font-size: 24pt;
     }
+    .container1 {
+      .container {
+      color: #FFFAF0;
+      align: center;
+      float: center;
+      margin: 50px;
+      width: 1000px;
+      height: auto;
+    }
     .container {
     align: center;
     float: center;
@@ -39,7 +48,7 @@
     }
     .banner {
       size: 80%;
-      opacity: .7;
+      opacity: .9;
     }
     #flapper-girl-1 {
       align: center;
@@ -51,7 +60,7 @@
       align: top right;
     }
     }
-    #body-stlye {
-
+    #youtube-video {
+      color: #FFFAF0
     }
 </style>
