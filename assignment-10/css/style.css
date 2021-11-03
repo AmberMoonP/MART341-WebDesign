@@ -38,6 +38,9 @@
     width: 1000px;
     height: auto;
     }
+    .banner {
+      size: 80%;
+    }
     #flapper-girl-1 {
       align: center;
     }
@@ -47,9 +50,6 @@
     #flapper-girl-3 {
       align: top right;
     }
-    #intro-photo {
-      size: 50%;
-      float: right;
     }
     #body-stlye {
 
