@@ -1,7 +1,8 @@
 <!stylesheet>
   <style>
     body {
-      background-image: ./images/background_image.jpg; color: gold;
+      background-color: black;
+      color: gold; 
     }
     h1, h2 {
       font-family: garamond;
