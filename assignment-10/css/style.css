@@ -1,7 +1,7 @@
   <style>
     body {
       background-color: black;
-      img size: 60%;
+      img: background-image: url(./images/a10_background_cropped.jpg);"
      }
     h1, h2 {
       font-family: garamond;
@@ -20,7 +20,7 @@
       border: 5px solid gold;
       padding: 20px;
       width: 75%;
-      float: center; 
+      float: center;
     }
     .container2 {
     align: center;
