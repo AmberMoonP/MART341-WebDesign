@@ -1,5 +1,6 @@
   <style>
-    body {
+    body /*I'm struggling a bit with the background image, it seems like it only works when it's linked in the index, and then styling it here is tricky! */
+    {
       background-image: url(./images/a10_background_cropped.jpg);
       background-attachment: fixed;
       font-size: 24pt;
