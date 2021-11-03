@@ -1,6 +1,7 @@
   <style>
     body {
       background-color: black;
+
      }
     h1, h2 {
       font-family: garamond;
@@ -24,6 +25,7 @@
     }
     .container2 {
     align: center;
+    float: center;
     }
     #flapper-girl-1 {
       align: center;
