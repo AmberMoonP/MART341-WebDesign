@@ -20,7 +20,7 @@
       border: 5px solid gold;
       padding: 20px;
       width: 75%;
-      align: center;
+      float: center; 
     }
     .container2 {
     align: center;
