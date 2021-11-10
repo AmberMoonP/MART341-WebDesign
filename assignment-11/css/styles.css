@@ -1,35 +1,35 @@
 <style>
-h1 {
+h1{
   font-family: 'playfair-display-variable', georgia, arial;
   font-size: 56pt;
   text-align: center;
   color: red;
   font-variant: small-caps;
 }
-div {
+div{
   font-family:'montserrat-light';
 }
-h2 {
+h2{
   font-family: 'playfair-display-variable', georgia, arial;
   font-size: 46px
   text-align: center;
   color: black;
 }
-p {
+p{
   font-family: 'montserrat-light';
   font-size: 18pt
 }
-a {
+a{
   color: blue;
 }
-a:hover {
+a:hover{
   color: lightblue;
   size: 105%;
 }
-a:visited {
+a:visited{
   color: lavender;
 }
-#div-1 {
+#div-1{
   align-content: center;
 }
 </style>
