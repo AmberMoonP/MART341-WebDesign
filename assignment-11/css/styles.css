@@ -2,7 +2,7 @@ h1 {
   font-family: 'playfair-display-variable', georgia, arial;
   font-size: 36pt;
   text-align: center;
-  color: black;
+  color: red;
   font-variant: small-caps;
 }
 div {
@@ -15,7 +15,7 @@ h2 {
   text-align: center;
   color: black;
 }
-a { 
+a {
 
 }
 a:hover {
