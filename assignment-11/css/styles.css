@@ -8,6 +8,7 @@ h1{
   text-align: center;
   color: black;
   font-variant: small-caps;
+  text-decoration:underline;
 }
 div{
   font-family:'montserrat-light', 'georgia', 'arial';
