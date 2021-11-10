@@ -3,24 +3,24 @@ body{
   background-color: floralwhite;
 }
 h1{
-  font-family: 'playfair-display-variable', georgia, arial;
-  font-size: 56pt;
+  font-family: 'playfair-display-variable', 'georgia', 'arial';
+  font-size: 56px;
   text-align: center;
   color: red;
   font-variant: small-caps;
 }
 div{
-  font-family:'montserrat-light';
+  font-family:'montserrat-light', 'georgia', 'arial';
 }
 h2{
-  font-family: 'playfair-display-variable', georgia, arial;
+  font-family: 'playfair-display-variable', 'georgia', 'arial';
   font-size: 46px
   text-align: center;
   color: black;
 }
 p{
-  font-family: 'montserrat-light';
-  font-size: 18pt
+  font-family: 'montserrat-light', 'georgia', 'arial';
+  font-size: 18px
 }
 a{
   color: blue;
@@ -36,4 +36,6 @@ a:visited{
   align-content: center;
   text-align: center;
 }
+#exerpt{
+  font-size:26px }
 </style>
