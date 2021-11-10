@@ -1,13 +1,19 @@
 h1 {
-  font-family: 'playfair-display-variable';
+  font-family: 'playfair-display-variable', georgia, arial;
   font-size: 36pt;
   text-align: center;
   color: black;
   font-variant: small-caps;
-  
+}
+div {
+  font-family:'montserrat-light';
+
 }
 h2 {
-  font-family:
+  font-family: 'playfair-display-variable', georgia, arial;
+  font-size: 75%;
+  text-align: center;
+  color: black;
 }
 a {
 
