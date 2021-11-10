@@ -1,24 +1,24 @@
-@font-face {
+@font-face { 
   font-family: 'playfair display';
   src: url('./fonts/playfair-display-variable.ttf') format('opentype');
   font-style: normal;
 }
-@font-face {
+@font-face { 
   font-family: 'montserrat-light';
   src: url('./fonts/Montserrat-Thin.ttf') format('opentype');
   font-style: normal;
 }
-@font-face {
+@font-face { 
   font-family: 'montserrat';
   src: url('./fonts/Montserrat-Regular.ttf') format('opentype');
   font-style: normal;
 }
-@font-face {
+@font-face { 
   font-family: 'montserrat';
   src: url('./fonts/Montserrat-LightItalic.ttf') format('opentype');
   font-style: normal;
 }
-@font-face {
+@font-face { 
   font-family: 'georgia'
   font-size: 16px
   line-height: 1.6
