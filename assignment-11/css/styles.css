@@ -25,11 +25,11 @@ p{
 a{
   color: blue;
 }
-a:hover{
+a: hover{
   color: lightblue;
   size: 105%;
 }
-a:visited{
+a: visited{
   color: lavender;
 }
 #title{
