@@ -29,7 +29,8 @@ a:hover{
 a:visited{
   color: lavender;
 }
-#div-1{
+#title{
   align-content: center;
+  text-align: center;
 }
 </style>
