@@ -30,12 +30,13 @@ p{
 }
 a{
   color: blue;
+  text-decoration:none;
 }
-a:hover{
+.a:hover{
   color: lightblue;
   size: 105%;
 }
-a:visited{
+.a:visited{
   color: purple;
 }
 #title{
