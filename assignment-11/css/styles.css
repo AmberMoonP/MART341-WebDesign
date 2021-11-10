@@ -12,10 +12,10 @@ h1{
 div{
   font-family:'montserrat-light', 'georgia', 'arial';
   padding: 5px;
-  margin-bottom: 5px;
   margin-left: 40px;
   margin-right: 40px;
   text-align: justified;
+  line-height: 2;
 }
 h2{
   font-family: 'playfair-display-variable', 'georgia', 'arial';
