@@ -6,7 +6,7 @@ h1{
   font-family: 'playfair-display-variable', 'georgia', 'arial';
   font-size: 56px;
   text-align: center;
-  color: black; 
+  color: black;
   font-variant: small-caps;
 }
 div{
@@ -27,11 +27,11 @@ p{
 a{
   color: blue;
 }
-a: hover{
+a:hover{
   color: lightblue;
   size: 105%;
 }
-a: visited{
+a:visited{
   color: purple;
 }
 #title{
