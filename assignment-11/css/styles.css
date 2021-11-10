@@ -13,6 +13,9 @@ div{
   font-family:'montserrat-light', 'georgia', 'arial';
   padding: 5px;
   margin-bottom: 5px;
+  margin-left: 40px;
+  margin-right: 40px;
+  text-align: justified;
 }
 h2{
   font-family: 'playfair-display-variable', 'georgia', 'arial';
@@ -23,6 +26,7 @@ h2{
 p{
   font-family: 'montserrat-light', 'georgia', 'arial';
   font-size: 18px
+  line-height: 1.5em;
 }
 a{
   color: blue;
