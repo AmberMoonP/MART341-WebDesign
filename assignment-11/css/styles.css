@@ -1,7 +1,7 @@
 <style>
 h1 {
   font-family: 'playfair-display-variable', georgia, arial;
-  font-size: 36pt;
+  font-size: 56pt;
   text-align: center;
   color: red;
   font-variant: small-caps;
@@ -11,9 +11,13 @@ div {
 }
 h2 {
   font-family: 'playfair-display-variable', georgia, arial;
-  font-size: 75%;
+  font-size: 46px
   text-align: center;
   color: black;
+}
+p {
+  font-family: 'montserrat-light';
+  font-size: 18pt
 }
 a {
   color: blue;
