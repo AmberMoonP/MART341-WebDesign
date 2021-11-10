@@ -27,6 +27,7 @@ p{
   font-family: 'montserrat-light', 'georgia', 'arial';
   font-size:18px
   display:block;
+  line-height: normal;
 }
 a{
   color: blue;
