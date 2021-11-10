@@ -49,5 +49,7 @@ a{
 .first-paragraph{
   :first-sentence
 }
-
+.paragraph{
+  line-height: 3px;
+}
 </style>
