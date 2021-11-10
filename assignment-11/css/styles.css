@@ -50,6 +50,6 @@ a{
   :first-sentence
 }
 .paragraph{
-  line-height: 3px;
+  line-height: 3em;
 }
 </style>
