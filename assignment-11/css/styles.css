@@ -6,15 +6,17 @@ h1{
   font-family: 'playfair-display-variable', 'georgia', 'arial';
   font-size: 56px;
   text-align: center;
-  color: red; 
+  color: red;
   font-variant: small-caps;
 }
 div{
   font-family:'montserrat-light', 'georgia', 'arial';
+  padding: 5px;
+  margin-bottom: 5px;
 }
 h2{
   font-family: 'playfair-display-variable', 'georgia', 'arial';
-  font-size: 46px
+  font-size: 36px
   text-align: center;
   color: black;
 }
@@ -30,12 +32,17 @@ a: hover{
   size: 105%;
 }
 a: visited{
-  color: lavender;
+  color: purple;
 }
 #title{
   align-content: center;
   text-align: center;
 }
 #exerpt{
-  font-size:26px }
+  font-size:26px
+}
+.first-paragraph{
+  :first-sentence
+}
+
 </style>
