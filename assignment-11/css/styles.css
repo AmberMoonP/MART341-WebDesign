@@ -1,7 +1,7 @@
 <style>
 body{
   background-color: floralwhite;
-  *line-height: 2em;
+  *line-height: 3em;
 }
 h1{
   font-family: 'playfair-display-variable', 'georgia', 'arial';
@@ -10,7 +10,7 @@ h1{
   color: black;
   font-variant: small-caps;
   text-decoration:underline;
-} 
+}
 h4{
   font-family: 'playfair-display-variable', 'georgia', 'arial';
   font-size: 24px
