@@ -10,6 +10,12 @@ h1{
   font-variant: small-caps;
   text-decoration:underline;
 }
+h4{
+  font-family: 'playfair-display-variable', 'georgia', 'arial';
+  font-size: 24px
+  text-align: center;
+  color: black;
+}
 div{
   font-family:'montserrat-light', 'georgia', 'arial';
   padding: 5px;
@@ -26,17 +32,16 @@ h2{
 p{
   font-family: 'montserrat-light', 'georgia', 'arial';
   font-size:18px
-  line-height: 2em;
+  line-height: normal;
 }
 a{
-  color: blue;
   text-decoration:none;
 }
-.a:hover{
+.a: hover{
   color: lightblue;
   size: 105%;
 }
-.a:visited{
+.a: visited{
   color: purple;
 }
 #title{
