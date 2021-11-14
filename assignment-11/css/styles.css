@@ -35,7 +35,7 @@ h2{
 p{
   font-family: 'montserrat-light', 'georgia', 'arial';
   font-size:18px
-  line-height: normal;
+  line-height: 2em;
   text-indent: 10px;
 }
 a{
