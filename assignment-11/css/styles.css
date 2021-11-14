@@ -36,7 +36,7 @@ p{
 }
 a{
   text-decoration:none;
-} 
+}
 .a: hover{
   color: lightblue;
   size: 105%;
@@ -51,10 +51,8 @@ a{
 #exerpt{
   font-size:26px
 }
-.first-paragraph{
-  :first-sentence
 }
 .paragraph{
-  line-height: 2em;
+  line-height: normal;
 }
 </style>
