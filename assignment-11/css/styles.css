@@ -43,14 +43,10 @@ a{
 }
 .a: visited{
   color: purple;
-} 
+}
 #title{
   align-content: center;
   text-align: center;
-}
-#exerpt{
-  font-size:26px
-}
 }
 .paragraph{
   line-height: normal;
