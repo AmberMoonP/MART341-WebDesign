@@ -41,23 +41,28 @@ p{
 a{
   text-decoration:none;
 }
-..a:: hover{
+.a:: hover{
   color: lightblue;
   size: 105%;
 }
-..a:: visited{
+.a:: visited{
   color: purple;
 }
 #title{
   align-content: center;
   text-align: center;
 }
-..paragraph{
+.paragraph{
   line-height: 2em;
 }
-..exerpt{
+.exerpt{
   align-content: center;
   text-align: center;
   align: center;
+}
+#first-paragraph
+::first-line{
+  text-transform: small-caps;
+}
 }
 </style>
