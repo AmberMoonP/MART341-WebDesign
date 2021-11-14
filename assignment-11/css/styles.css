@@ -10,12 +10,13 @@ h1{
   color: black;
   font-variant: small-caps;
   text-decoration:underline;
-}
+} 
 h4{
   font-family: 'playfair-display-variable', 'georgia', 'arial';
   font-size: 24px
   text-align: center;
   color: black;
+  align-content: center;
 }
 div{
   font-family:'montserrat-light', 'georgia', 'arial';
