@@ -1,6 +1,7 @@
 <style>
 body{
   background-color: floralwhite;
+  *line-height: 2em;
 }
 h1{
   font-family: 'playfair-display-variable', 'georgia', 'arial';
