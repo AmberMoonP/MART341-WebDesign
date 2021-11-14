@@ -52,4 +52,9 @@ a{
 .paragraph{
   line-height: 2em;
 }
+.exerpt{
+  align-content: center;
+  text-align: center;
+  align: center;
+}
 </style>
