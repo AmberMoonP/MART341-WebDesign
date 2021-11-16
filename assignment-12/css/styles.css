@@ -61,6 +61,7 @@ a {
   border-color: #778899;
   position: fixed;
   align: center;
+  max-height: 30px;
 }
 .menu-item {
   background-color: #ADD8E6;
