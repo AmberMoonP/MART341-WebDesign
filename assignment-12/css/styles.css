@@ -1,4 +1,4 @@
-<style>
+<style
 body {
   background-color: floralwhite;
   *line-height: 10em;
@@ -56,7 +56,7 @@ a {
 }
 .page-header {
   display: inline;
-  background-color:#87CEFA
+  background-color: #87CEFA;
   border: double;
   border-color: #778899;
   position: fixed;
