@@ -1,9 +1,9 @@
 <style>
-body{
+body {
   background-color: floralwhite;
   *line-height: 10em;
 }
-h1{
+h1 {
   font-family: 'playfair-display-variable', 'georgia', 'arial';
   font-size: 56px;
   text-align: center;
@@ -11,14 +11,14 @@ h1{
   font-variant: small-caps;
   text-decoration:underline;
 }
-h4{
+h4 {
   font-family: 'playfair-display-variable', 'georgia', 'arial';
   font-size: 24px
   text-align: center;
   color: black;
   align-content: center;
 }
-div{
+div {
   font-family:'montserrat-light', 'georgia', 'arial';
   padding: 2px;
   margin-left: 40px;
@@ -26,43 +26,82 @@ div{
   text-align: justified;
 
 }
-h2{
+h2 {
   font-family: 'playfair-display-variable', 'georgia', 'arial';
   font-size: 36px
   text-align: center;
   color: black;
 }
-p{
+p {
   font-family: 'montserrat-light', 'georgia', 'arial';
   font-size:18px
   line-height: 2em;
   text-indent: 50px;
 }
-a{
+a {
   text-decoration:none;
 }
-.a:: hover{
+.a:: hover {
   color: lightblue;
   size: 105%;
 }
-.a:: visited{
+.a:: visited {
   color: purple;
 }
-#title{
+.title {
   align-content: center;
   text-align: center;
 }
-.paragraph{
+.page-header {
+  display: inline;
+  background-color:#87CEFA
+  border: double;
+  border-color: #778899;
+  position: fixed;
+}
+.menu-item {
+  background-color: #ADD8E6;
+  display: inline-block;
+  border: solid black 2px;
+  padding: 1em;
+  margin: 1em;
+  max-width: 40px;
+  max-height: 20px;
+}
+.paragraph {
   line-height: 2em;
 }
-.exerpt{
+.exerpt {
   align-content: center;
   text-align: center;
   align: center;
 }
-#first-paragraph
-::first-line{
+#first-paragraph: first-line {
   text-transform: small-caps;
 }
+.paragraph-1 {
+  background-color: #B0C4DE;
+  opacity: .9;
+  padding: 1em;
+}
+.paragraph-2 {
+  background-color: #B0C4DE;
+  opacity: .8;
+  padding: 1em;
+}
+.paragraph-3 {
+  background-color: #B0C4DE;
+  opacity: .7;
+  padding: 1em;
+}
+.paragraph-4 {
+  background-color: #B0C4DE;
+  opacity: .6;
+  padding: 1em;
+}
+.paragraph-5 {
+  background-color: #B0C4DE;
+  opacity: .5;
+  padding: 1em;
 }
 </style>
