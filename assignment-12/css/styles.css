@@ -74,6 +74,7 @@ a {
 .paragraph {
   line-height: 2em;
   max-width: 1000px;
+  align: center;
 }
 .exerpt {
   align-content: center;
