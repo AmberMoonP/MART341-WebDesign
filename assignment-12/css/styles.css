@@ -70,6 +70,7 @@ a {
 }
 .paragraph {
   line-height: 2em;
+  max-width: 1000px;
 }
 .exerpt {
   align-content: center;
@@ -103,5 +104,6 @@ a {
   background-color: #B0C4DE;
   opacity: .5;
   padding: 1em;
+}
 }
 </style>
