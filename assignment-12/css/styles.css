@@ -58,6 +58,7 @@ a {
   border: double;
   border-color: #778899;
   position: fixed;
+  align: center;
 }
 .menu-item {
   background-color: #ADD8E6;
