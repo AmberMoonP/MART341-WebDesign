@@ -83,27 +83,27 @@ a:visited {
 #first-paragraph:first-line {
   text-transform: small-caps;
 }
-.paragraph-1 {
+#paragraph-1 {
   background-color: #B0C4DE;
   opacity: .9;
   padding: 1em;
 }
-.paragraph-2 {
+#paragraph-2 {
   background-color: #B0C4DE;
   opacity: .8;
   padding: 1em;
 }
-.paragraph-3 {
+#paragraph-3 {
   background-color: #B0C4DE;
   opacity: .7;
   padding: 1em;
 }
-.paragraph-4 {
+#paragraph-4 {
   background-color: #B0C4DE;
   opacity: .6;
   padding: 1em;
 }
-.paragraph-5 {
+#paragraph-5 {
   background-color: #B0C4DE;
   opacity: .5;
   padding: 1em;
