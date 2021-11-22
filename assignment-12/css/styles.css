@@ -1,4 +1,4 @@
-<style
+
 body {
   background-color: floralwhite;
   *line-height: 10em;
@@ -11,11 +11,10 @@ h1 {
   font-variant: small-caps;
   text-decoration:underline;
   margin-top: 60px;
-
 }
 h4 {
   font-family: 'playfair-display-variable', 'georgia', 'arial';
-  font-size: 24px
+  font-size: 24px;
   text-align: center;
   color: black;
   align-content: center;
@@ -26,28 +25,27 @@ div {
   margin-left: 40px;
   margin-right: 40px;
   text-align: justified;
-
 }
 h2 {
   font-family: 'playfair-display-variable', 'georgia', 'arial';
-  font-size: 36px
+  font-size: 36px;
   text-align: center;
   color: black;
 }
 p {
   font-family: 'montserrat-light', 'georgia', 'arial';
-  font-size:18px
+  font-size:18px;
   line-height: 2em;
   text-indent: 50px;
 }
 a {
   text-decoration:none;
 }
-.a:: hover {
+a:hover {
   color: lightblue;
   size: 105%;
 }
-.a:: visited {
+a:visited {
   color: purple;
 }
 .title {
@@ -76,15 +74,13 @@ a {
 .paragraph {
   line-height: 2em;
   max-width: 1000px;
-  align: center;
   text-align: justify;
 }
 .exerpt {
   align-content: center;
   text-align: center;
-  align: center;
 }
-#first-paragraph: first-line {
+#first-paragraph:first-line {
   text-transform: small-caps;
 }
 .paragraph-1 {
@@ -112,5 +108,3 @@ a {
   opacity: .5;
   padding: 1em;
 }
-}
-</style>
