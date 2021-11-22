@@ -64,7 +64,7 @@ a:visited {
 }
 .menu-item {
   background-color: #ADD8E6;
-  display: inline-block;
+  display: inline;
   border: solid black 2px;
   padding: 1em;
   margin: 1em;
