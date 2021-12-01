@@ -1,0 +1,84 @@
+body {
+  background-color: 8FBC8F;
+  font-family: arial, georgia, sans-serif;
+  font-size: 16em;
+  color: linen;
+  *box-sizing: border-box;
+}
+div {
+  font-family: arial, georgia, sans-serif;
+  font-size: 16em;
+  text-align: left;
+  color: linen;
+  margin: 5px;
+}
+h1 {
+  font-family: Abril Fatface, Bodoni, Caslon Graphique;
+  font-size: 32em;
+  text-align: center;
+  color: 2F4F4F;
+  margin-top; 10px;
+}
+p {
+  font-family: arial, georgia, sans-serif;
+  font-size: 16em;
+  text-align: left;
+  color: linen;
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  background-color: #556B2F
+}
+img {
+  position: relative;
+  max-width: 100%;
+  height: auto;
+}
+.table-services {
+
+}
+tr, th, {
+  border: solid 2F4F4F 200px;
+  padding: 5px;
+  margin: 5px;
+}
+td {
+
+}
+.top-menu {
+  position: fixed;
+  background-color: #2F4F4F;
+  color: linen;
+
+}
+.menu-item {
+  display: inline;
+  padding: 5px;
+}
+.dropdown {
+    display: inline-block;
+}
+.dropdown-item {
+    display: none;
+    position: absolute;
+    border: 1px solid #000;
+    margin: 0;
+    margin-top: 0.5em;
+    color: linen;
+    background-color: #2F4F4F;
+    z-index: 1;
+}
+.dropdown-content a {
+    color: linen;
+}
+.dropdown:hover .dropdown-content {
+    display: block
+  }
+.form-div {
+  margin-top: 5em;
+}
+.form {
+
+}
