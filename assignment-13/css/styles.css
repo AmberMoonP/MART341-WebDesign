@@ -1,5 +1,5 @@
 body {
-  background-color: 8FBC8F;
+  background-color: #8FBC8F;
   font-family: arial, georgia, sans-serif;
   font-size: 16em;
   color: linen;
@@ -15,7 +15,7 @@ h1 {
   font-family: Abril Fatface, Bodoni, Caslon Graphique;
   font-size: 32em;
   text-align: center;
-  color: 2F4F4F;
+  color: #2F4F4F;
   margin-top; 10px;
 }
 p {
@@ -39,7 +39,7 @@ img {
 
 }
 tr, th, {
-  border: solid 2F4F4F 200px;
+  border: solid #2F4F4F 3px;
   padding: 5px;
   margin: 5px;
 }
