@@ -3,7 +3,6 @@ body {
   font-family: arial, georgia, sans-serif;
   font-size: 16em;
   color: linen;
-  *box-sizing: border-box;
 }
 div {
   font-family: arial, georgia, sans-serif;
