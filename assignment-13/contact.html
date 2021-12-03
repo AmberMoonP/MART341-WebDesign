@@ -5,50 +5,58 @@
       <meta name="assignment 13" content="mockup for client website">
       <meta author="Amber Moon Peterson">
       <meta name="viewport" content="width= device-width, initial-scale= 1.0">
-      <link rel="stylesheet" type="text/css" href="./css/styles.css">
+      <link rel="stylesheet" type="text/css" href="./css/style.css">
+      <link rel="stylesheet" type="text/css" href="./css/dropdown-menu.css">
     </head>
         <body>
-          <header class="top-menu">
+          <img src="./images/spa-junk-2.jpg" alt="placeholder image for spa services"
+          width="1000px" height="auto" class="about-image">
+          <header class="nav-menu">
       <div class="menu-item">
-         <a href="#">Home</a></div>
+         <a href="index.html">Home</a></div>
       <div class="menu-item">
-         <a href="#">About</a></div>
+         <a href="about.html">About</a></div>
+      <div class="menu-item">
+         <a href="contact.html">Contact</a></div>
       <div class="menu-item dropdown">
-         <a href="#">Other spas</a>
+         <a href="services.html">Services/Other Spas</a>
          <div class="dropdown-content">
             <div class="dropdown-item">
-               <a href="https://www.sorellasdayspa.com/">Other spa 1</a></div>
+               <a href="https://locations.massageenvy.com/montana/missoula/935-sw-higgins.html?utm_source=GMB&utm_medium=useractions&utm_campaign=website">Massage Envy</a></div>
             <div class="dropdown-item">
-               <a href="https://www.cedarcreekspa.com/">Other spa 2</a></div>
+               <a href="https://www.cedarcreekspa.com/">Cedar Creek Spa</a></div>
             <div class="dropdown-item">
-               <a href="https://locations.massageenvy.com/montana/missoula/935-sw-higgins.html?utm_source=GMB&utm_medium=useractions&utm_campaign=website">Other spa 3</a></div>
+            <a href="https://www.sorellasdayspa.com/">Sorella's Day Spa</a></div>
          </div>
       </div>
-      <img src="./images/wireframe-placeholder.jpg" alt="placeholder image for spa services" width="1000px" height="700px">
-      <h1> Contact </h1>
    </header>
+        <h1> Contact Us </h1>
           <div class="form-div">
-            <p>First and last name</p>
-            <form action="https:/examplesite.com" method="post" class="form">
+            Sign up for special offers and discounts<form action="https:/examplesite.com" method="post" class="form" placeholder="Email">
               <input type="text" name="name">
               <input type="submit" name="subscribe" value="subscribe" />
             </form>
           </div>
           <div class="form-div">
-            <p>Phone</p>
-            <form action="https:/examplesite.com" method="post" class="form">
-              <input type="text" name="phone-number">
-              <input type="submit" name="subscribe" value="subscribe" />
+            <form action="action_page.php">
+              <label for="text-area">Questions or Concerns</label>
+              <br />
+              <input type="text" id="fname" name="firstname" placeholder="Your name..">
+              <br />
+              <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+              <br />
+              <textarea id="text-area" name="subject" placeholder="Ask here..." ></textarea>
+              <input type="submit" value="Submit">
             </form>
           </div>
           <div class="form-div">
-            <form action="https:/examplesite.com" method="post" class="form">
+            <form action="https:/examplesite.com" method="post" class="service-form">
               <p>Which service are you interested in?</p>
-                <input type="radio" name="response" value="yes"/> Service 1
-                <input type="radio" name="response" value="no"/> Service 2
-                <input type="radio" name="response" value="no"/> Service 3
-                <input type="radio" name="response" value="no"/> Service 4
-                <input type="radio" name="response" value="no"/> Service 5
+                <input type="radio" name="response" value="yes"/> Service 1 <br />
+                <input type="radio" name="response" value="no"/> Service 2 <br />
+                <input type="radio" name="response" value="no"/> Service 3 <br />
+                <input type="radio" name="response" value="no"/> Service 4 <br />
+                <input type="radio" name="response" value="no"/> Service 5 <br />
             </form>
           </div>
 
