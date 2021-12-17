@@ -1,0 +1,7 @@
+# Final Homework Questions #
+
+1. Did I learn anything new about web design and repositories? Absolutely! I started with no prior knowledge whatsoever, so everything I learned in this class was new for me. I really appreciate beautiful websites now.
+
+2. Web design was a really interesting way to explore color theory and fonts, which is stuff I've been working hard on in my other classes. I often felt frustrated that my vision was often limited by my technical ignorance. For my final website I intentionally went gaudy, using icecream colors and silly fonts. Because it's showcasing my digital creativity, I wanted it to capture the playfulness I've felt this semester while creating everything, and learning digital tools. I went from being a person who struggled to check my email, to being a person who can render on complex programs like Adobe Photoshop and Illustrator.
+
+3. Most of my challenges felt technical. I often would get stuck, and would not be able to see where in my code was flawed. I have spent many many hours trying to get a thing to work, and most often just have to settle for it working well enough. It's been frustrating to have a vision for what I think a page should look like, but feeling like I don't have the tools to make it happen. However, I try to take a step back and remind myself how far I've come, and that this is a field that doesn't come naturally to me. I feel pretty proud of what I can do now, even though I know it's still at a very basic level! 
