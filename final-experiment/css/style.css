@@ -1,0 +1,60 @@
+body {
+  background-color: #8FBC8F;
+  font-family: 'sans-serif'
+  font-size: 14pt;
+  color: linen;
+  marin: 20px;
+}
+div {
+  font-size: 14pt;
+  text-align: left;
+  color: linen;
+  margin: 5px;
+}
+h1 {
+  font-family: 'ArtifakCleanTypface', 'serif';
+  font-size: 28pt;
+  text-align: center;
+  color: #2F4F4F;
+  margin-top; 20px;
+  padding-top: 20pt;
+}
+p {
+  font-size: 16pt;
+  text-align: left;
+  color: linen;
+}
+a {
+  text-decoration: none;
+  color: linen;
+}
+a:hover {
+  background-color: #2F4F4F;
+}
+a:visited {
+  color: lavender;
+}
+ul {
+  display: inline;
+}
+.about-image {
+  float: right;
+}
+.container {
+  float: left;
+}
+#textarea {
+  width: 500px;
+  height:200px;
+  size: absolute;
+}
+.form-div {
+  padding: 20px;
+  margin: 5px;
+}
+.home-page-images {
+  display: inline;
+  height: 50%;
+  width: auto;
+  padding: 5px;
+}

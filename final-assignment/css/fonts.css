@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'playfair display';
+  src: url('./fonts/playfair-display-variable.ttf') format('opentype');
+  font-style: normal;
+}
+@font-face {
+  font-family: 'artefak';
+  src: url('./fonts/ArtefakCleanTypeface.ttf') format('opentype');
+  font-style: normal;
+}
+@font-face {
+  font-family: 'barrio regular';
+  src: url('./fonts/Barrio-Regular.ttf') format('opentype');
+  font-style: normal;
+}
+@font-face {
+  font-family: 'poiret one';
+  src: url('./fonts/PoiretOne-regular.ttf') format('opentype');
+  font-style: normal;
+}

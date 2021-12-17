@@ -1,0 +1,47 @@
+body{
+  color: black;
+}
+div{
+  margin: 5px;
+}
+h1 {
+  font-size: 48pt;
+  text-align: center;
+  color: #191970;
+}
+h2 {
+  font-size: 35pt;
+  color: #191970;  
+}
+.bio{
+  font-size: 24pt;
+  width: 400px;
+}
+.portrait {
+  float: right;
+}
+p {
+  font-family: 'montserrat-black', 'garamond', 'sans-serif';
+  font=size: 24px;
+  text-align: left;
+}
+img {
+  align: left;
+  margin: none;
+  padding: 10px;
+}
+.header {
+  font-family: 'barrio regular';
+  align: center;
+  margin-left: 60px;
+}
+.container{
+  font-size: 24px;
+  font-family: 'montserrat-black', 'garamond', 'sans-serif';
+  display: inline-block;
+  float: left;
+  max-width: 1050px;
+}
+.gallery{
+ display: inline;
+}
