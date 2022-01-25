@@ -8,10 +8,13 @@ h1 {
   font-size: 48pt;
   text-align: center;
   color: #191970;
+  font-family: 'barrio regular';
+  align: center;
+  margin-left: 60px;
 }
 h2 {
   font-size: 35pt;
-  color: #191970;  
+  color: #191970;
 }
 .bio{
   font-size: 24pt;
